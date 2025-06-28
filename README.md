@@ -17,9 +17,3 @@ Desenvolvedor FrontEnd em constante evolução
 </p>
 
 ---
-
-## Estatísticas de Linguagens
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duhzeraa&theme=tokyonight&layout=compact&langs_count=8" />
-</p>
