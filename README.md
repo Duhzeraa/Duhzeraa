@@ -1,7 +1,7 @@
 # Olá, eu sou o Duhzeraa 👋
 
 **Eduardo Ramos | 20 anos**  
-Estudante de Ciência da Computação (3º período)  
+Estudante de Ciência da Computação (4º período)  
 Desenvolvedor FrontEnd em constante evolução
 
 ---
