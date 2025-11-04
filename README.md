@@ -2,7 +2,7 @@
 
 **Eduardo Ramos | 21 anos**  
 Estudante de Ciência da Computação (4º período)  
-🚀 Desenvolvedor Front-End em constante evolução  
+🚀 Desenvolvedor Full Stack em constante evolução  
 
 ---
 
