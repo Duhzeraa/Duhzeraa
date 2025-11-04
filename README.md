@@ -1,4 +1,4 @@
-# Olá, eu sou o Duhzeraa 👋
+# Olá, eu sou o Eduardo Ramos 👋
 
 **Eduardo Ramos | 21 anos**  
 Estudante de Ciência da Computação (4º período)  
