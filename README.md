@@ -1,7 +1,7 @@
 # Olá Mundo👋
 
 **Eduardo Ramos | 21 anos**  
-Estudante de Ciência da Computação (4º período)  
+Estudante de Ciência da Computação (6º período)  
 🚀 Desenvolvedor Full Stack em constante evolução  
 
 ---
