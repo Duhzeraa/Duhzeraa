@@ -1,33 +1,32 @@
-# Olá Mundo👋
+# Olá Mundo 👋
 
 **Eduardo Ramos | 21 anos**  
-Estudante de Ciência da Computação (6º período)  
-🚀 Desenvolvedor Full Stack em constante evolução  
+Estudante de Ciência da Computação  
+🛡️ Entusiasta e Pesquisador em Cibersegurança & Segurança da Informação  
 
 ---
 
-
-## 💻 Tecnologias
+## 💻 Tecnologias & Ferramentas
 
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <h3>🌐 Front-End</h3>
-      <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img alt="Figma" title="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      <h3>🛠️ Sistemas & Redes</h3>
+      <img alt="Linux" title="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img alt="Bash" title="Bash" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img alt="Docker" title="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     </td>
     <td align="center" width="250">
-      <h3>⚙️ Back-End</h3>
-      <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <h3>💻 Scripting & Security</h3>
       <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img alt="C" title="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img alt="SQL" title="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </td>
   </tr>
 </table>
 
 ---
 
 ## 📈 Objetivo
-Continuar evoluindo no desenvolvimento web e conquistar uma posição como **Full Stack Developer**, construindo projetos com performance, design e propósito.
-
----
+Continuar evoluindo no ecossistema de **Cibersegurança e Segurança da Informação**, focando em análise de vulnerabilidades, segurança em aplicações (AppSec), defesa de redes e construção de soluções seguras e resilientes.
