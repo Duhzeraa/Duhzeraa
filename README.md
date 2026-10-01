@@ -2,7 +2,7 @@
 
 **Eduardo Ramos | 21 anos**  
 Estudante de Ciência da Computação  
-🛡️ Entusiasta e Pesquisador em Cibersegurança & Segurança da Informação  
+💻 Entusiasta e Desenvolvedor Backend em formação  
 
 ---
 
@@ -11,21 +11,32 @@ Estudante de Ciência da Computação
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <h3>🛠️ Sistemas & Redes</h3>
-      <img alt="Linux" title="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img alt="Bash" title="Bash" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-      <img alt="Docker" title="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    </td>
-    <td align="center" width="250">
-      <h3>💻 Scripting & Security</h3>
+      <h3>🐍 Desenvolvimento</h3>
       <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img alt="SQL" title="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </td>
+    <td align="center" width="250">
+      <h3>🗄️ Banco de Dados</h3>
+      <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     </td>
   </tr>
 </table>
 
 ---
 
+## 📚 Conhecimentos
+
+- 🧠 Lógica de programação
+- 🐍 Desenvolvimento com Python
+- 🔌 APIs e integração entre sistemas
+- 🗄️ Bancos de dados e SQL com MySQL
+- 🌱 Controle de versão com Git
+- 🧩 Desenvolvimento e organização de aplicações Backend
+
+---
+
 ## 📈 Objetivo
-Continuar evoluindo no ecossistema de **Cibersegurança e Segurança da Informação**, focando em análise de vulnerabilidades, segurança em aplicações (AppSec), defesa de redes e construção de soluções seguras e resilientes.
+
+Continuar evoluindo no **Desenvolvimento Backend**, aprofundando meus conhecimentos em Python, APIs, bancos de dados, arquitetura de sistemas e desenvolvimento de aplicações escaláveis.
+
+Tenho curiosidade em entender como as aplicações funcionam por trás das interfaces e busco constantemente aprender novas tecnologias, boas práticas e ferramentas que me permitam construir soluções cada vez mais eficientes, organizadas e seguras.
